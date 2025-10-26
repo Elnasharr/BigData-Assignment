@@ -25,7 +25,12 @@ customer-analytics/
     ├── summary_plot.png
     └── clusters.txt
 ```
+---
 
+## 🖼️ To push a new image:
+```bash
+docker push elnasharr/customer-analytics:tagname
+```
 ---
 
 ## 🚀 How to Run
