@@ -27,9 +27,9 @@ customer-analytics/
 ```
 ---
 
-## 🖼️ To push a new image:
+## 🖼️ To pull an image:
 ```bash
-docker push elnasharr/customer-analytics:tagname
+docker pull elnasharr/customer-analytics:latest
 ```
 ---
 
